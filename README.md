@@ -9,6 +9,8 @@ This is your class repository. To get started with the training, check out
 
 Whenever you complete a task, you will:
 
+#Note: you will be using the RekaOnline project on Firebase. check your email for the invite
+
 -  Create a new branch, using your name.
 -  Once you've completed the task, open a Pull Request to merge your branch with master.
 -  The task is complete when Kess merges your changes.
