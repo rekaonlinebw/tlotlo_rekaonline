@@ -1,14 +1,8 @@
-# Welcome to Tlolo's Rekaonline Repository!
+# flutterapp
 
-This is your class repository. To get started with the training, check out
-- [Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-- [Firebase](https://firebase.google.com)
-- [Flutter](https://flutter.io)
+A new Flutter application.
 
-## Completing tasks
-### Note: you will be using the RekaOnline project on Firebase. check your email for the invite
+## Getting Started
 
-Whenever you complete a task, you will:
--  Create a new branch, using your name.
--  Once you've completed the task, open a Pull Request to merge your branch with master.
--  The task is complete when Kess merges your changes.
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
